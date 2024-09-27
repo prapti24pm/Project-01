@@ -1,0 +1,89 @@
+/* Webdign1st */
+.web1st{
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 50px;
+   
+}
+.peraone{
+    width: 600px;
+    float: left;
+    
+}
+.margntop{
+    margin-top: 60px;
+}
+
+.peranav{
+width:400px ;
+}
+
+/* imgbox */
+
+.peratwo{
+ width: 300px;
+ position: relative;
+ margin-top: 40px;
+}
+
+.imgbox1{
+ width: 200px;
+ height: 150px;
+ 
+
+}
+.imgbox2{
+width: 150px;
+height: 150px;
+position: absolute;
+top: 300px;
+right:250px;
+
+}  .div1{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+.dignone{background-color: blueviolet;
+    color: white;
+    padding: 6px 4px;
+  border-radius:18px 18px;
+}
+.dignone:hover{
+background-color: black;
+   
+}
+
+.div2{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.digntwo{
+    background-color: brown;
+    color: white;
+    padding:6px 4px ;
+    border-radius:18px 18px ;
+
+}
+.digntwo:hover{
+ background-color:black;
+   
+}
+
+.div3{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.dignthree{
+    background-color: blue;
+    color: white;
+    padding:5px 4px ;
+    border-radius: 18px 16px;
+}
+.dignthree:hover{
+    background-color: black;
+    
+}
